@@ -273,7 +273,7 @@ export default function Home() {
           <p className="text-gray-600">
             For any bugs, please report them to our{' '}
             <a
-              href="https://www.instagram.com/_m4nifest0/"
+              href="https://github.com/gauravzack12/"
               target="_blank"
               className="underline cursor-pointer"
             >
