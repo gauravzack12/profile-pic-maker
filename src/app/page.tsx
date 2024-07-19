@@ -130,7 +130,7 @@ export default function Home() {
         <p className="text-gray-600">
           Watch the{' '}
           <a
-            href="https://www.instagram.com/p/C2B1DP0LqBl/"
+            href="https://www.instagram.com/p/C9mopThBLHx/"
             target="_blank"
             className="underline cursor-pointer hover:text-gray-900"
           >
